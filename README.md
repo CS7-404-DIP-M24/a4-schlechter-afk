@@ -14,3 +14,4 @@ Follow the directory structure for your submission repository
 - images/ will contain images used for the questions.
 - Make sure you run your Jupyter notebook before submitting, to save all outputs.
 
+## NOTE: The output for `q2` is too big, thus due to rendering issues the image is not visible, hence the output was cleared from the notebook and the output image was stored in the `images` directory [here](images/q2_output_experiment.png) for reference.
